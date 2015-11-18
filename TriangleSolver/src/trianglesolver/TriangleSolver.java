@@ -6,16 +6,16 @@
 package trianglesolver;
 
 /**
- *
  * @author Bailey/Nosh
  */
 public class TriangleSolver {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //Title and version
+        System.out.println("\tTriangle Solver v0.01\n");
+                
+        
+        
     }
     
 }
