@@ -5,9 +5,9 @@
  */
 package trianglesolver;
 
-/** im here
+/**
  *
- * @author Bailey
+ * @author Bailey/Nosh
  */
 public class TriangleSolver {
 
