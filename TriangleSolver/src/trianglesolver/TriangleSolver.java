@@ -1,19 +1,24 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package trianglesolver;
 
 /**
- * @author Bailey/Nosh
+ * @author Bailey
  */
+ 
+ import java.util.Scanner;
+ 
 public class TriangleSolver {
 
     public static void main(String[] args) {
+        Scanner userValue = new Scanner(System.in);
+        
         //Title and version
-        System.out.println("\tTriangle Solver v0.01\n");
-             
+        System.out.println("\tTriangle Solver v0.01\nDo you know a side length?");
+        
+        //Determines if the user has side length values
+        boolean side = userValue.nextline();
+        
+        
         
         
     }
